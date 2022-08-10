@@ -76,11 +76,11 @@ body {
 }
 
 .curve-1{
-  background-image: url("assets/curve-1.png");
+  background-image: url("../assets/curve-1.png");
 }
 
 .curve-2 {
-  background-image: url("assets/curve-2.png");
+  background-image: url("../assets/curve-2.png");
 }
 
 .skill-badge {
